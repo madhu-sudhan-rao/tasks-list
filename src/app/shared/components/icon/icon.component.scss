@@ -1,0 +1,24 @@
+.icon-button{
+    i{
+        padding: 8px;
+        border-radius: 50%;
+        font-size: 15px;
+        
+        &:hover{
+            background: rgba(48, 48, 48, 0.341);
+            cursor: pointer;
+            box-shadow: 0 0 10px 2px rgba(150, 149, 149, 0.7);;
+        }
+    }
+}
+
+.card-icon{
+    .pi {
+        color: white !important;
+        font-size: 1rem;
+        background-color: rgb(53, 101, 205);
+        padding: 10px;
+        border-radius: 50%;
+    }
+    
+}
